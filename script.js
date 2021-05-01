@@ -408,7 +408,11 @@ function confetti() {
         }
       })(0);
 
-
+function playAudio() {
+        var x = document.getElementById("myAudio");
+        x.volume = 0.15;
+        x.play();
+      
       // Start the loop
       var prev = undefined;
       requestAnimationFrame(function loop(timestamp) {
