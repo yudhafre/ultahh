@@ -17,7 +17,17 @@
 
 <body>
 
-<iframe src="https://k.top4top.io/m_19471vzkr0.mp3" height="0" width="0" allow="autoplay"; encrypt-media></iframe>
+<audio id="Audio" src="hbd.mp3"></audio>
+
+<div id="box">
+<div class="id">
+	<h2>Hai Acca</h1>
+	<div class="foto"><img src="foto1.png" width="100px"></div>
+<a onClick="togglePlay()"><button type="button">Ok</button></a>
+</div>
+
+</div>
+
   <div class="bg" id="content">
 
     <div class="container" id="timer">
@@ -99,6 +109,18 @@
   </script>
   <script src="https://kit.fontawesome.com/61e5120832.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+
+<script type="text/javascript">
+var myAudio = document.getElementById("Audio");
+var isPlaying = false;
+function togglePlay() {
+    myAudio.play();
+    terakhir = document.querySelector('#box');
+	terakhir.classList.add('hide');
+    
+};
+
+</script>
 
   <script src="script.js"></script>
 </body>
