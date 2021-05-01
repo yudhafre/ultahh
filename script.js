@@ -408,7 +408,7 @@ function confetti() {
         }
       })(0);
 
-/*function playAudio() {
+function playAudio() {
         var x = document.getElementById("myAudio");
         x.volume = 0.15;
         x.play();*/
