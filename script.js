@@ -411,7 +411,7 @@ function confetti() {
 function playAudio() {
         var x = document.getElementById("myAudio");
         x.volume = 0.15;
-        x.play();*/
+        x.play();
       
       // Start the loop
       var prev = undefined;
