@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Riza pada hari ini Sabtu, 01 Mei 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 15</b>", " ", "Kepada Aca, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Lariza Rahmanillah :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", " pada hari ini Senin, 13 September 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 13</b>", " ", "Kepada Fenyta, semoga panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Achmad Yudha 😎👌"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii aca!!", "Happy Birthday ya..", " ", "Barakallah fi umrik, panjang umur, sehat selalu, makin cantik, nurut sama ortu, semangat sekolahnya, aca jgn nakal nakal ya disana, meskipun kita virtual tapi aca dh kek sodara bwt iza, whis you all the best, semoga yg dicita citakan tersampaikan, mwaahh syg aca whangy whangy whangy 🥰❣️", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Haii Fenyta!!", "Happy Birthday ya..", " ", "Barakallah fi umrik, panjang umur, sehat selalu, makin cantik, nurut sama ortu, semangat sekolahnya, jgn nakal nakal, masih bocil sekolah yg bener jangan pacar-pacar an, semoga yg dicita citakan tersampaikan, Fenyta whangy whangy whangy🗿", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
